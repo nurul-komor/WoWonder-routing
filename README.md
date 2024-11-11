@@ -1,5 +1,5 @@
 
-# New feature on ezwayi
+# New feature on WoWonder 
 example: news
 
 A brief description of what this project does and who it's for
